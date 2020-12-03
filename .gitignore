@@ -200,3 +200,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,vscode,jupyternotebooks,virtualenv,python
+answer.txt
+answer.zip
+data/fast-text-data/*
