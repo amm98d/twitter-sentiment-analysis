@@ -1,7 +1,7 @@
 # SemEval-2020 Task 9
 ### Overview of Sentiment Analysis of Code-Mixed Tweets
 
-This repository contains a Python Notebook for sentiment analysis on twitter data using Pretrained XLM-Roberta BERT Model.
+This repository contains a Python Notebook for sentiment analysis of Hinglish twitter data using Pretrained XLM-Roberta BERT Model.
 
 ## Usage
 
